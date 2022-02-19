@@ -1,31 +1,13 @@
 {
-  "query1": {
-    "results": [
-      {
-        "id": 1,
-        "content": "First result"
-      },
-      {
-        "id": 2,
-        "content": "Second result"
-      }
-    ],
-    "metadata": {}
-  },
-  "query2": {
-    "results": [
-      {
-        "id": 2,
-        "content": "Second result"
-      },
-      {
-        "id": 3,
-        "content": "Third result"
-      },
-      {
-        "id": 4,
-        "content": "Fourth result"
-      }
-    ]
-  }
+  "query": "query1",
+  "results": [
+    {
+      "id": 1,
+      "content": "First result"
+    },
+    {
+      "id": 2,
+      "content": "Second result"
+    }
+  ]
 }
