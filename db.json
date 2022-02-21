@@ -1,5 +1,7 @@
 {
-  "query": "query1",
+  "metadata": {
+    "query": "query1"
+  },
   "results": [
     {
       "id": 1,
